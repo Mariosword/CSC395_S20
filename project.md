@@ -79,9 +79,10 @@ In place of a final, you will have an informal presentation of your project prop
 - Solorbotics: https://solarbotics.com/
 - DigiKey: http://www.digikey.com/product-search/en
 - Mouser: http://www.mouser.com/
-- AxMan (in-town store): http://www.ax-man.com/
+- AxMan (Hopkins and St. Paul): http://www.ax-man.com/
 - Hub Hobby (Richfield): http://www.hubhobby.com
-- EE Depot (2nd fl Keller). Takes Goldy $ only.
+- Microcenter (St. Louis Park -- they have everything!) https://www.microcenter.com/
+
 
 ### Tutorials
 
